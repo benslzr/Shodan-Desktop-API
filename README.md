@@ -5,4 +5,5 @@ It is a very simple C# WinForm Application that I made to get familiar with REST
 
 ![shodan desktop](https://i.imgur.com/FMHqPEn.png)
 
-Click here to download the Installer ![Link to Installer](https://www.letshax.com/shodan-desktop-rest-api/)
+You can also visit my website to download the installer. 
+https://www.letshax.com/shodan-desktop-rest-api/
